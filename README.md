@@ -1,6 +1,6 @@
 # LeMiCi DevOps Internship Assignment
 
-## Candidate Details
+## Candidate Information
 
 Name: Muktha Nanda Korimi
 
