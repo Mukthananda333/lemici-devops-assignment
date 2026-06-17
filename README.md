@@ -10,4 +10,4 @@ https://github.com/Mukthananda333/lemici-devops-assignment
 
 This change was made in Feature-A branch.
 Environment: Development and Production
-Server Environment: PROD
+Server Environment: DEV and PROD
