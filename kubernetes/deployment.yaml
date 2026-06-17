@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: lemici-app
+
+spec:
+  replicas: 2
+
+  selector:
+    matchLabels:
+      app: lemici-app
+
+  template:
+    metadata:
+      labels:
+        app: lemici-app
+
+    spec:
+      containers:
+      - name: lemici-app
+        image: lemici-app:latest
+
+        ports:
+        - containerPort: 5000
