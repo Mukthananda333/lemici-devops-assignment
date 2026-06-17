@@ -9,5 +9,4 @@ https://github.com/Mukthananda333/lemici-devops-assignment
 ## Branch Update
 
 This change was made in Feature-A branch.
-This line is from Conflict A
-This line is from Conflict B
+Environment: Production
