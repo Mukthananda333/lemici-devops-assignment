@@ -10,3 +10,4 @@ https://github.com/Mukthananda333/lemici-devops-assignment
 
 This change was made in Feature-A branch.
 This line is from Conflict A
+This line is from Conflict B
